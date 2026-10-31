@@ -1,0 +1,449 @@
+{
+ "summary": {
+  "questions": 51,
+  "answerable": 43,
+  "unanswerable": 8,
+  "recall@5": 1.0,
+  "citation_validity": 1.0,
+  "answer_term_hit": 0.977,
+  "abstention_accuracy": 1.0,
+  "api": "http://localhost:8100"
+ },
+ "rows": [
+  {
+   "id": 1,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 2,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 3,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 4,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 5,
+   "split": "tuning",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 6,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 7,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 8,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 9,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 10,
+   "split": "tuning",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 11,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 12,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 13,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 14,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 15,
+   "split": "tuning",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 16,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 17,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 18,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 19,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 20,
+   "split": "tuning",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 21,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 22,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 23,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 24,
+   "split": "held_out",
+   "category": "table",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 25,
+   "split": "tuning",
+   "category": "table",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 26,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 27,
+   "split": "held_out",
+   "category": "revision",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 28,
+   "split": "held_out",
+   "category": "revision",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 29,
+   "split": "held_out",
+   "category": "revision",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 30,
+   "split": "tuning",
+   "category": "revision",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": false,
+   "status": "supported"
+  },
+  {
+   "id": 31,
+   "split": "held_out",
+   "category": "revision",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 32,
+   "split": "held_out",
+   "category": "revision",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 33,
+   "split": "held_out",
+   "category": "table",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 34,
+   "split": "held_out",
+   "category": "table",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 35,
+   "split": "tuning",
+   "category": "table",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 36,
+   "split": "held_out",
+   "category": "table",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 37,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 38,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 39,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 40,
+   "split": "tuning",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 41,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 42,
+   "split": "held_out",
+   "category": "fact",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 43,
+   "split": "held_out",
+   "category": "injection-adjacent",
+   "recall@5": true,
+   "citation_valid": true,
+   "term_hit": true,
+   "status": "supported"
+  },
+  {
+   "id": 44,
+   "split": "held_out",
+   "category": "unanswerable",
+   "abstained_correctly": true
+  },
+  {
+   "id": 45,
+   "split": "tuning",
+   "category": "unanswerable",
+   "abstained_correctly": true
+  },
+  {
+   "id": 46,
+   "split": "held_out",
+   "category": "unanswerable",
+   "abstained_correctly": true
+  },
+  {
+   "id": 47,
+   "split": "held_out",
+   "category": "unanswerable",
+   "abstained_correctly": true
+  },
+  {
+   "id": 48,
+   "split": "held_out",
+   "category": "unanswerable",
+   "abstained_correctly": true
+  },
+  {
+   "id": 49,
+   "split": "held_out",
+   "category": "unanswerable",
+   "abstained_correctly": true
+  },
+  {
+   "id": 50,
+   "split": "tuning",
+   "category": "injection",
+   "abstained_correctly": true
+  },
+  {
+   "id": 51,
+   "split": "held_out",
+   "category": "injection",
+   "abstained_correctly": true
+  }
+ ]
+}

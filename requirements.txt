@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+streamlit
+pypdf
+fpdf2
+faiss-cpu
+numpy
+pandas
+httpx
+requests
+python-multipart
+fastembed
+scikit-learn
+pytest

@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+artifacts/
+*.faiss
+chunk_ids.json
+.env
+.fastembed_cache/
+models/
+~/.cache
+eval/results.json.tmp
+.DS_Store
+
+.tmp/

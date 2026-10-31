@@ -1,0 +1,16 @@
+services:
+  api:
+    build: .
+    ports: ["8100:8100"]
+    volumes: ["doculens-data:/srv/artifacts"]
+    environment:
+      DOCULENS_DATA_DIR: /srv/artifacts
+  ui:
+    build: .
+    command: streamlit run ui/streamlit_app.py --server.port 8501 --server.address 0.0.0.0
+    ports: ["8501:8501"]
+    environment:
+      DOCULENS_API: http://api:8100
+    depends_on: [api]
+volumes:
+  doculens-data:
